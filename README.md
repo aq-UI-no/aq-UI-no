@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Aquino
 - 👀 I’m interested in design and development...
-- 🌱 I’m currently learning UI-UX, front end dev and penetration testing...
-- 💞️ I’m looking to collaborate on any design, front end, and ethical hacking projects
+- 🌱 I’m currently learning Software Engineering...
+- 🎭 I'm an OSINT enthusiast
+- 💞️ I’m looking to collaborate on any design, and Front End Engineering related stuff
 - 📫 Reach me on...let me figure this out
 
 <!---
