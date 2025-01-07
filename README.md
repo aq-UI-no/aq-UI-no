@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Aquino
-- 👀 I’m interested in design and development...
+- 👀 I’m interested in defesnse & military software development...
 - 🌱 I’m currently learning Software Engineering...
 - 🎭 I'm an OSINT enthusiast
-- 💞️ I’m looking to collaborate on any design, and Front End Engineering related stuff
+- 💞️ I’m looking to collaborate on any backend Engineering related stuff
 - 📫 Reach me on...let me figure this out
 
 <!---
