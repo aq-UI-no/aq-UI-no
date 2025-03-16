@@ -1,3 +1,10 @@
+
+   _____   ________   ____ ___.___ _______   ________   
+  /  _  \  \_____  \ |    |   \   |\      \  \_____  \  
+ /  /_\  \  /  / \  \|    |   /   |/   |   \  /   |   \ 
+/    |    \/   \_/.  \    |  /|   /    |    \/    |    \
+\____|__  /\_____\ \_/______/ |___\____|__  /\_______  /
+        \/        \__>                    \/         \/ 
 - 👋 Hi, I’m Aquino
 - 👀 I’m interested in defense & military software development...
 - 🌱 I’m currently learning Software Engineering...
