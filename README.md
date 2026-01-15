@@ -1,9 +1,7 @@
-- 👋 Hi, I’m Aquino
-- 👀 I’m interested in defense & military software development...
-- 🌱 I’m currently learning Software Engineering...
+- 👋 Hi
+- 👀 I’m interested in defense tech
 - 🎭 I'm an OSINT enthusiast
-- 💞️ I’m looking to collaborate on any backend Engineering related stuff
-- 📫 Reach me on...let me figure this out
+- 💞️ Currently preparing to apply for my masters in Computational Social Science
 
 <!---
 aq-UI-no/aq-UI-no is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
